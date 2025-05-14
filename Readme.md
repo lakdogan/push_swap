@@ -65,6 +65,12 @@ ARG="51 21 33 5 1 56"
 - `inc/` – Header files
 - `libft/` – Custom libft library
 
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 ## Author
 
 - **lakdogan** ([lakdogan@student.42heilbronn.de](mailto:lakdogan@student.42heilbronn.de))
